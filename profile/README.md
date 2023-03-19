@@ -1,6 +1,8 @@
 # Shortcuts
 Manual - https://pfp-fangame.github.io/manual
+
 Server - https://pfp-fangame.github.io/server
+
 ObbyIDs - https://pfp-fangame.github.io/obbyids
 
 # About the Game
