@@ -1,10 +1,3 @@
-# Shortcuts
-Manual - https://pfp-fangame.github.io/manual
-
-Server - https://pfp-fangame.github.io/server
-
-ObbyIDs - https://pfp-fangame.github.io/obbyids
-
 # About the Game
 Potentially Fire Pillars is the Obby Creator successor of my other tower-styled fangame, Total Fire Towers. Conquer a diverse range of towers, explore the depths of a burning world, and uncover the secrets that led up to this point.
 
